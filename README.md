@@ -11,17 +11,19 @@ The plants have names in Suomi (Finnish), you might need to use a translator to 
 --------------------
 LEGEND
 --------------------
-Mutually beneficial
-Mutually antagonistic
-One-way beneficial
-One-way antagonistic
-herbs and spice
-fruit trees
-vegetables
-fruit
-berries
-uncategorised
-insects and animals that are attrached to the plant
+
+- Mutually beneficial
+- Mutually antagonistic
+- One-way beneficial
+- One-way antagonistic
+- herbs and spice
+- fruit trees
+- vegetables
+- fruit
+- berries
+- uncategorised
+- insects and animals that are attrached to the plant
+
 ---------------------------------------------------
 
 If you want to find other examples for Markov's Garden you can explore this systems map I put together of companion plants.
