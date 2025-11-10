@@ -1,7 +1,6 @@
 # ActInf-Garden
 
-You can read the intro here in github: 
-<a href="https://docs.google.com/document/d/1g9nGbBlnCdEwsJA0gmjJQlzQz6VyTj9YF-1WrL4rYqo/edit?tab=t.0">Link to Intro google doc</a>
+You can read the [intro](https://github.com/JanaLumi/ActInf-Garden/blob/main/Intro.md) here in github or go to the <a href="https://docs.google.com/document/d/1g9nGbBlnCdEwsJA0gmjJQlzQz6VyTj9YF-1WrL4rYqo/edit?tab=t.0">the google doc</a>
 
 This Markov Garden is from another dataset with plum in the centre.
 <a href="https://embed.kumu.io/2cb97c3cfe68366920c6c4358e60c430" target="_blank" rel="noopener" />To the garden 🏡</a>
