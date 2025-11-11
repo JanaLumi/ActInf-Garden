@@ -7,7 +7,7 @@ If you want to use TTS to listen to the text in the video, here is the text for 
 This is a companion planting relational graph with a plum in the centre.
 ![a relational graph showing the relationship between plum trees, in the centre, and its mutually or one-way beneficial plants](images/plum-garden.png)
 
-You can explore this<a href="https://embed.kumu.io/2cb97c3cfe68366920c6c4358e60c430" target="_blank" rel="noopener" /> relational graph of plants</a>
+You can explore this<a href="https://embed.kumu.io/bc5549dbebe21326debd0b886ab150fa" target="_blank" rel="noopener" /> relational graph of plants</a>
 
 The plants are in Suomi (Finnish), you might need to use a translator to figure them out. Here is the translation of the legend:
 
