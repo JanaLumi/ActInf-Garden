@@ -29,7 +29,7 @@ LEGEND
 
 ![a systems map showing the relationships between beans and corn and their companions](images/beans-corn.png)
 
-If you want to find other examples for the Markov's Garden you can explore this systems map I put together of companion plants from Alex's dataset: <a href="https://embed.kumu.io/65475b7c0a6fcccc2aba93cdb4f403fa" target="_blank" rel="noopener" />🌱 Systems Map</a>
+If you want to find other examples for the Markov's Garden you can explore this systems map of companion plants put together from Alex's dataset: <a href="https://embed.kumu.io/65475b7c0a6fcccc2aba93cdb4f403fa" target="_blank" rel="noopener" />🌱 Systems Map</a>
 
 Description: This systems map explores the relationships between plants for the purpose of companion planting. When using this map, be sure to do your own research for what is suitable in your area. The dataset is incomplete and has been edited from its source: [Dataset](https://www.kaggle.com/datasets/aramacus/companion-plants/data) published by Alex Kozlov - downloaded 20250312
 
