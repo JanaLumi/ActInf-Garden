@@ -1,4 +1,4 @@
-# ActInf-Garden 🏡
+# ActInf Garden 🏡
 
 Here is the [intro](https://github.com/JanaLumi/ActInf-Garden/blob/main/Intro.md). You can also download the <a href="https://docs.google.com/document/d/1g9nGbBlnCdEwsJA0gmjJQlzQz6VyTj9YF-1WrL4rYqo/edit?tab=t.0">the google doc</a>.
 
