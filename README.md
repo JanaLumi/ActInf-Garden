@@ -1,13 +1,13 @@
-# ActInf-Garden
+# ActInf-Garden 🏡
 
 Here is the [intro](https://github.com/JanaLumi/ActInf-Garden/blob/main/Intro.md). You can also download the <a href="https://docs.google.com/document/d/1g9nGbBlnCdEwsJA0gmjJQlzQz6VyTj9YF-1WrL4rYqo/edit?tab=t.0">the google doc</a>.
 
 This is a companion planting relational graph with a plum in the centre.
 ![a relational graph showing the relationship between plum trees, in the centre, and its mutually or one-way beneficial plants](images/plum-garden.png)
 
-You can explore the relational graph of plants <a href="https://embed.kumu.io/2cb97c3cfe68366920c6c4358e60c430" target="_blank" rel="noopener" />in the garden 🏡</a>
+You can explore this<a href="https://embed.kumu.io/2cb97c3cfe68366920c6c4358e60c430" target="_blank" rel="noopener" /> relational graph of plants</a>
 
-The plants have names in Suomi (Finnish), you might need to use a translator to figure them out. Here is the translation of the legend:
+The plants are in Suomi (Finnish), you might need to use a translator to figure them out. Here is the translation of the legend:
 
 --------------------
 LEGEND
