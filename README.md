@@ -1,6 +1,8 @@
 # ActInf Garden 🏡
 
-Here is the [intro](https://github.com/JanaLumi/ActInf-Garden/blob/main/Intro.md). You can also download the <a href="https://docs.google.com/document/d/1g9nGbBlnCdEwsJA0gmjJQlzQz6VyTj9YF-1WrL4rYqo/edit?tab=t.0">the google doc</a>.
+[Intro video](https://www.canva.com/design/DAG4IHVJsVY/bQN1RVtYTap2IXJ5jgmL1w/watch?utm_content=DAG4IHVJsVY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70860bf332)
+
+If you want to use TTS to listen to the text in the video, here is the text for the [intro](https://github.com/JanaLumi/ActInf-Garden/blob/main/Intro.md). You can also download the <a href="https://docs.google.com/document/d/1g9nGbBlnCdEwsJA0gmjJQlzQz6VyTj9YF-1WrL4rYqo/edit?tab=t.0">the google doc</a>.
 
 This is a companion planting relational graph with a plum in the centre.
 ![a relational graph showing the relationship between plum trees, in the centre, and its mutually or one-way beneficial plants](images/plum-garden.png)
@@ -23,7 +25,7 @@ LEGEND
 - fruit
 - berries
 - uncategorised
-- insects and animals that are attrached to the plant
+- insects and animals repellent
 
 ---------------------------------------------------
 
