@@ -39,3 +39,4 @@ Description: This systems map explores the relationships between plants for the 
 
 Now that you have access to the tools, you can make your way to the [canva playground](https://www.canva.com/design/DAG4cWsNumQ/GpF52KBRqPofRshEqYQYbg/edit?utm_content=DAG4cWsNumQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
+![screenshot of canva whiteboard](the_garden.png)
